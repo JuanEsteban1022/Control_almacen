@@ -1,0 +1,34 @@
+.tabla {
+    width: 100%;
+    max-width: 200px;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+th {
+    width: 100%;
+    background-color: #04AA6D;
+    border: black 1px solid;
+    color: black;
+}
+
+td {
+    width: 100px;
+    background-color: #f2f2f2;
+    border: black 1px solid;
+}
+
+
+
+footer {
+    width: 100%;
+    margin-top: 225px;
+    height: 50px;
+    text-align: center;
+    background-color: #04AA6D;
+}
